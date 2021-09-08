@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1099369371764",
+    "firebase_url": "https://guess-those-bars.firebaseio.com",
+    "project_id": "guess-those-bars",
+    "storage_bucket": "guess-those-bars.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099369371764:android:2e8fc30202dd87a0975921",
+        "android_client_info": {
+          "package_name": "com.dudedeveloper.guessthosebars"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1099369371764-asampg0m68g4ahj1p2km4m32p871scfb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx-A69_Qo5qPFeGqwKo2OMPdVJvv2lmMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1099369371764-asampg0m68g4ahj1p2km4m32p871scfb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
